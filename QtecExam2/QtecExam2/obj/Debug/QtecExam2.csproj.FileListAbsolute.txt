@@ -1,0 +1,17 @@
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\bin\Debug\QtecExam2.exe
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\bin\Debug\QtecExam2.pdb
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\obj\Debug\QtecExam2.csprojResolveAssemblyReference.cache
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\obj\Debug\QtecExam2.MainForm.resources
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\obj\Debug\QtecExam2.Properties.Resources.resources
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\obj\Debug\QtecExam2.csproj.GenerateResource.Cache
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\obj\Debug\QtecExam2.exe
+P:\TEMP_TEST\QTec\QtecExam2\QtecExam2\obj\Debug\QtecExam2.pdb
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.exe
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.pdb
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\bin\Debug\QtecExam2.exe
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\bin\Debug\QtecExam2.pdb
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.csprojResolveAssemblyReference.cache
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.MainForm.resources
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.Properties.Resources.resources
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.csproj.GenerateResource.Cache
+P:\TEMP_TEST\QTec\exam2_SJS\QtecExam2\QtecExam2\obj\Debug\QtecExam2.exe.licenses
